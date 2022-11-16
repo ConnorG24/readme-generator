@@ -52,7 +52,7 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   ## Installation
-  ${data.installation}
+  ${data.install}
   ## Usage
   ${data.usage}
   ${renderLicenseSection(data.licenses)}

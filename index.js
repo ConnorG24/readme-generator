@@ -14,7 +14,7 @@ const questions = [{
   },{
     type: 'input',
     message: 'Enter project Installation guide',
-    name: 'Install',
+    name: 'install',
   },{
     type: 'input',
     message: 'Enter project usage',
